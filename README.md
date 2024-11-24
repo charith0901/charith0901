@@ -11,17 +11,6 @@ Welcome to my GitHub profile! I'm **Charith**, an undergraduate **Computer Scien
   - Modern Software Development Practices  
   - Latest Trends in Technology  
 
-- 💻 **Interests:**  
-  - **Programming Languages:** JavaScript, React, Laravel  
-  - **Design Patterns:** Proxy Pattern, Decorator Pattern  
-  - **Security Focus:** Network Security & Application Security  
-  - **Research:** Mixed Designs & Advanced Methodologies  
-
-- 🎯 **Current Projects:**  
-  - **[RtmisQ](#):** A multi-language application supporting English, Sinhala, and Tamil.  
-  - **MERN Stack Applications:** Developing advanced session storage and state management techniques.  
-
----
 
 ## 🚀 **My Skills & Tools**  
 
@@ -32,16 +21,6 @@ Welcome to my GitHub profile! I'm **Charith**, an undergraduate **Computer Scien
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-### **Design Patterns & Research**  
-- **Proxy Pattern, Decorator Pattern**  
-- Advanced Application Design Methodologies  
-- Mixed Research Methodologies  
-
-### **Specialized Skill Areas**  
-- 🔒 **Network Security**  
-- 🗣️ **Multi-language Application Development** (English, Sinhala, Tamil)
-
----
 
 ## 📈 **Stats & Highlights**  
 
