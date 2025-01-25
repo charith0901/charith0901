@@ -1,4 +1,4 @@
-# 🌟 Charith's GitHub Portfolio  
+# 🌟 Charith Jayasankha  
 
 Welcome to my GitHub profile! I'm **Charith**, an undergraduate **Computer Science student** and an aspiring **software developer**. I’m passionate about **exploring new technologies**, mastering the latest trends in programming, and building **innovative solutions** to make an impact in the tech world. 🚀  
 
