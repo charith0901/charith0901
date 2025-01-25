@@ -4,7 +4,7 @@
 Innovative Computer Science undergraduate with a passion for crafting cutting-edge software solutions. Committed to continuous learning and pushing technological boundaries.
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=charith0901&color=blueviolet)
+![[Profile Views](https://komarev.com/ghpvc/?username=charith0901&color=blueviolet)]
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +37,7 @@ Innovative Computer Science undergraduate with a passion for crafting cutting-ed
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charith0901&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charith0901&theme=radical" alt="GitHub Streak" width="45%" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charith0901&theme=tokyonight)
+  ![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charith0901&theme=tokyonight)]
 </div>
 
 ## 🌱 Currently Exploring
