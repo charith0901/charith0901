@@ -4,7 +4,7 @@
 Innovative Computer Science undergraduate with a passion for crafting cutting-edge software solutions. Committed to continuous learning and pushing technological boundaries.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=charith0901&color=blueviolet" alt="profile views" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=charith0901&color=blueviolet" alt="profile views" />
 </div>
 
 ## 🛠️ Tech Stack
