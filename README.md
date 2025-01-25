@@ -32,6 +32,8 @@ Welcome to my GitHub profile! I'm **Charith**, an undergraduate **Computer Scien
   ![Charith's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charith0901&theme=radical&hide_border=true)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charith0901&layout=compact&theme=radical&hide_border=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=charith0901&theme=juicyfresh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
